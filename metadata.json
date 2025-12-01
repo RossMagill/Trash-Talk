@@ -1,0 +1,7 @@
+{
+  "name": "Trash Talk",
+  "description": "A sassy raccoon named Rumi helps you sort your trash using AI vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
